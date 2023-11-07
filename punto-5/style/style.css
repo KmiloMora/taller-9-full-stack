@@ -1,0 +1,26 @@
+#section-1__1{
+    color: green;
+}
+
+b {
+    color: red;
+}
+
+#section-2__2 {
+    text-decoration: overline underline;
+}
+
+strong {
+    font-size: 28px;
+}
+
+#section-3__3 {
+    color: blue;
+    font-size: 18px;
+}
+
+#section-4__4 {
+    color: red;
+    font-size: 18px;
+    text-decoration: underline;
+}
