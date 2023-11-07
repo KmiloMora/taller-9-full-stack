@@ -16,11 +16,13 @@
 <h2>Punto 3: Diseño con CSS</h2>
 
 <h2>Punto 4: Titulos</h2>
-<img src="./public/images/punto4.png" alt="punto4">
+<img src="./public/images/punto4.png" alt="punto 4">
 
 <h2>Punto 5: Parráfo</h2>
+<img src="./public/images/punto5.png" alt="punto 5">
 
 <h2>Punto 6: Links</h2>
+<img src="./public/images/punto6.png" alt="punto 6">
 
 <h2>Punto 7 y 8: Navegación</h2>
 
