@@ -16,6 +16,7 @@
 <h2>Punto 3: Diseño con CSS</h2>
 
 <h2>Punto 4: Titulos</h2>
+<img src="./public/images/punto4.png" alt="punto4">
 
 <h2>Punto 5: Parráfo</h2>
 
