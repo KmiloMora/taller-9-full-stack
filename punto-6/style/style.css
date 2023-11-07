@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+nav a {
+    color: yellow;
+}
+
+div a {
+    color: blueviolet;
+}
