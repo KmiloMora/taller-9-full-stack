@@ -12,7 +12,7 @@
 <a href="https://www.figma.com/file/KpAUBssfnHkK2YQRaQD9Kz/Camilo-Andr%C3%A9s-Mora-Acosta?type=design&node-id=0-1&mode=design&t=rkP1Q5kFxzALGFFM-0">Link de Figma</a>
 
 <h2>Punto 2: Diseño de HTML</h2>
-<img src="./public/images/punto_2.png" alt="punto 2">
+<img src="./public/images/Punto_2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 <img src="./public/images/punto_3.png" alt="punto 3">
