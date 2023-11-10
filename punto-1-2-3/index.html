@@ -4,11 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="./styles/common-styles.css">
+    <link rel="stylesheet" href="./styles/header-styles.css">
+    <link rel="stylesheet" href="./styles/banner-styles.css">
+    <link rel="stylesheet" href="./styles/section-1-styles.css">
+    <link rel="stylesheet" href="./styles/section-2-styles.css">
+    <link rel="stylesheet" href="./styles/footer-styles.css">
     <title>Page Design</title>
 </head>
 <body>
   <header>
-      <div class="header_navigator"></div>
+      <div class="header__navigator">
         <img src="./public/images/header-logo.png" alt="header logo">
         <nav>
             <ul>
@@ -19,7 +26,7 @@
             </ul>
         </nav>
     </div>
-      <div class="header_settings">
+      <div class="header__settings">
           <div class="language">
               <img src="./public/images/header-world.png" alt="header world">
               <span>Español</span>
@@ -30,7 +37,7 @@
   <main>
       <section id="banner">
           <div class="banner_info">
-              <div class="banber_texts">
+              <div class="banner__texts">
                   <h1>Aprovecha la era digital, toma clases en línea</h1>
                   <p>
                       Toma los cursos mas importantes de tecnologia con clases en linea,
@@ -39,15 +46,15 @@
                   </p>
               </div>
               <div class="banner_buttons">
-                  <button>Saber más</button>
-                  <button>Planes</button>
+                  <button class="button--orange">Saber más</button>
+                  <button class="button--transparent">Planes</button>
               </div>
             </div>
             <div>
             <img src="./public/images/banner-online.png" alt="banner online">
             </section>
-            <section id="section-1"></section>
-            <div class="section-1__info"></div>
+            <section id="section-1">
+            <div class="section-1__info">
             <h2>Por qué elegirnos a nosotros</h2>
             <p>
                 Somos una universidad en constante actualizacion y nose
@@ -63,7 +70,7 @@
               >
               <h3>Virtualidad y educacion</h3>
             </div>
-            <div class="section-1__card">
+            <div class="section-1__card section-1__card-down">
                 <h3>Alcance de  objetivos</h3>
                 <img 
               src="./public/images/section1-goals.png" 
@@ -71,7 +78,6 @@
               width="120px"
               height="120px"
                 >
-                <h3>Clases inclusivas</h3>
             </div>
             <div class="section-1__card">
                 <img 
@@ -80,7 +86,9 @@
                 width="120px"
                 height="120px"
                   >
+                <h3>Clases inclusivas</h3>
             </div>
+           </section>
             <section id="section-2">
                     <div class="section-2__info">
                       <img 
@@ -91,22 +99,22 @@
                       >
                       <div>
                         <h2>Brindamos herramientas para que tu aprendizaje</h2>
-                        <h2>sea efectivo</h2>
+                        <h2 class="title_pink">sea efectivo</h2>
                         <p>Las herramientas digitales son nuestras aliadas y aprovechamos 
                            cada una de estas para brindarte la mejor experiencia en línea
                         </p>
-                        <button>Saber más</button>
+                        <button class="button--orange">Saber más</button>
                       </div>
                     </div>
                     <div class="section-2__info">
                       <div>
                        <h2>Educacion pensando en</h2>
-                       <h2>objetivos alcanzados</h2>
+                       <h2 class="title_pink">objetivos alcanzados</h2>
                        <p>
                         Es importante para nosotros que las metas
                         de cada uno de nuestros estudiantes sean alcanzadas
                        </p>
-                       <button>Saber más</button>
+                       <button class="button--orange">Saber más</button>
                       </div>
                       <img 
                       src="./public/images/section2-goals.png"
@@ -122,7 +130,7 @@
       </section>
   </main>
   <footer id="footer">
-      <div class="fooer_info">
+      <div class="footer__info">
           <img src="./public/images/footer-logo.png"
           alt="logo"
           width="200px"
