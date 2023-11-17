@@ -30,3 +30,4 @@
 <img src="./public/images/punto_7_8.png" alt="punto 7_8">
 
 <h2>Punto 9: Tabla</h2>
+<img src="./public/images/punto_9.png" alt="punto 9">

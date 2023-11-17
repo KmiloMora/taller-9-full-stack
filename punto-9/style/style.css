@@ -1,0 +1,21 @@
+table{
+    margin: 20px 500px;
+    width: 820px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: yellow;
+}
+
+th{
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+td{
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+}
